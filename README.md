@@ -1,5 +1,14 @@
 # Intern-Task-2
 
+<img width="1262" height="760" alt="image" src="https://github.com/user-attachments/assets/d94c6269-db2d-4558-9bc0-0a4126dddcc3" />
+
+<img width="1229" height="505" alt="image" src="https://github.com/user-attachments/assets/48b3658e-1942-408c-87be-4fe6cbca1b57" />
+
+<img width="1263" height="478" alt="image" src="https://github.com/user-attachments/assets/02b7e56a-9c76-453f-9cfc-619eb7f20725" />
+
+<img width="1564" height="589" alt="image" src="https://github.com/user-attachments/assets/17c37949-6021-43f3-b4dc-2992700f9ec9" />
+
+
 # n8n Workflow Setup Guide
 
 This repository contains exported n8n workflows and instructions for setting up the required integrations:
