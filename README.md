@@ -42,5 +42,18 @@ This repository contains exported n8n workflows and instructions for setting up 
 
 ---
 
+## 3. Exporting and Uploading Workflows to GitHub
+
+1. In n8n, open your workflow.
+2. Click on the Workflow menu (⋮) → Export → Download as file.
+3. Save the file with a descriptive name, e.g. workflows/my-workflow.json.
+4. Add the exported file to your Git repository:
+
+## 4. Importing Workflows from Github
+
+1. Download the .json workflow file from GitHub.
+2. In n8n, go to the Workflows page.
+3. Click Import from File.
+4. Select the downloaded workflow JSON to load it into n8n.
 
 
