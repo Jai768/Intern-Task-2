@@ -42,8 +42,5 @@ This repository contains exported n8n workflows and instructions for setting up 
 
 ---
 
-## 3. n8n Command Syntax Examples
 
-### Trimming text to 1600 characters
-```javascript
-{{ $json.content.parts[0].text.slice(0, 1600) }}
+
