@@ -56,4 +56,10 @@ This repository contains exported n8n workflows and instructions for setting up 
 3. Click Import from File.
 4. Select the downloaded workflow JSON to load it into n8n.
 
+## 5. Command Syntax
+
+- **LIST**: LIST Folder/File
+- **MOVE**: MOVE Source Destination
+- **DELETE**: DELETE File/Folder
+- **SUMMARY**: SUMMARY Filename
 
